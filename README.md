@@ -18,4 +18,5 @@ runApp('mpgcar')
 
 ###Description of this Slidify application
 
-Open and view in the browser.
+[Open](http://htmlpreview.github.io/?https://github.com/stitchx39/DataProducts/blob/master/index.Rmd-rpubs.html#/) html file and view in the browser.
+
